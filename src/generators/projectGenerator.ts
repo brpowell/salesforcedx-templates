@@ -35,6 +35,8 @@ const emptyfolderarray = ['aura', 'lwc'];
 
 const analyticsfolderarray = ['waveTemplates'];
 
+// hello world
+
 export default class ProjectGenerator extends generator {
   constructor(args: string | string[], options: OptionsMap) {
     super(args, options);
