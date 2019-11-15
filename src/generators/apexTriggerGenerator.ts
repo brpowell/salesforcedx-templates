@@ -11,6 +11,8 @@ const generator = require('yeoman-generator');
 
 // hi
 
+// asdf this is a knowledge sharing demo
+
 export default class ApexTriggerGenerator extends generator {
   constructor(args: string | string[], options: OptionsMap) {
     super(args, options);
