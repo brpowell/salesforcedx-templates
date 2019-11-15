@@ -65,7 +65,8 @@ export class MessageUtil {
       examples.reduce((acc, current) => acc + `   ${current}\n`, '')
     );
   }
-
+  
+  // hiiii
   private static messages = Messages.loadMessages(
     'salesforcedx-templates',
     'messages'
