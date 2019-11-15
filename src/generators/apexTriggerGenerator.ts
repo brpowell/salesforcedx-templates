@@ -8,6 +8,9 @@ import * as path from 'path';
 import { OptionsMap } from '../utils/types';
 // tslint:disable-next-line:no-var-requires
 const generator = require('yeoman-generator');
+
+// hi
+
 export default class ApexTriggerGenerator extends generator {
   constructor(args: string | string[], options: OptionsMap) {
     super(args, options);
