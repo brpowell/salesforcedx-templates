@@ -39,7 +39,8 @@ export abstract class TemplateCommand extends SfdxCommand {
   }
 
   public abstract run(): Promise<AnyJson>;
-
+  
+  // todo: some stuff
   public async runGenerator(generator: typeof yeomanGenerator) {
     // Can't specify a default value the normal way for apiversion, so set it here
     if (!this.flags.apiversion) {
