@@ -18,6 +18,8 @@ import { CreateOutput } from './types';
 const yeoman = require('yeoman-environment');
 const yeomanGenerator = require('yeoman-generator');
 
+// todo: more stuff
+
 export abstract class TemplateCommand extends SfdxCommand {
   public static buildJson(
     adapter: ForceGeneratorAdapter,
