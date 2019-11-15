@@ -18,8 +18,6 @@ import { CreateOutput } from './types';
 const yeoman = require('yeoman-environment');
 const yeomanGenerator = require('yeoman-generator');
 
-// todo: more stuff
-
 export abstract class TemplateCommand extends SfdxCommand {
   public static buildJson(
     adapter: ForceGeneratorAdapter,
@@ -42,7 +40,6 @@ export abstract class TemplateCommand extends SfdxCommand {
 
   public abstract run(): Promise<AnyJson>;
   
-  // todo: some stuff
   public async runGenerator(generator: typeof yeomanGenerator) {
     // Can't specify a default value the normal way for apiversion, so set it here
     if (!this.flags.apiversion) {
