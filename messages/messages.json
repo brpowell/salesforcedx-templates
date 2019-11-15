@@ -93,5 +93,6 @@
   "MissingTestName": "Missing required flag:\n -n, --testname TESTNAME  name of the generated Lightning test\nSee more help with --help\n",
   "InvalidTemplate": "Expected --template=foo to be one of:",
   "StandardReadMe": "This guide helps Salesforce developers who are new to Visual Studio Code go",
-  "EmptyReadMe": "# Salesforce App"
+  "EmptyReadMe": "# Salesforce App",
+  "Hi": "I am a message"
 }
