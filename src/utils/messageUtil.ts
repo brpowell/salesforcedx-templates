@@ -8,8 +8,6 @@ import { Messages } from '@salesforce/core';
 
 Messages.importMessagesDirectory(__dirname);
 
-// i am making a mess of this repo
-
 // TODO: Update util when sfdxdocgen is updated to support oclif
 export class MessageUtil {
   /**
