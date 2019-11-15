@@ -11,6 +11,8 @@ import { CreateUtil, MessageUtil, TemplateCommand } from '../../../../utils';
 
 const apexTriggerFileSuffix = /.trigger$/;
 
+// random comment
+
 export default class ApexTrigger extends TemplateCommand {
   public static description = MessageUtil.buildDescription(
     'ApexTriggerDescription',
