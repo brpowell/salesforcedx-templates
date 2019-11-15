@@ -13,6 +13,8 @@ import { CreateUtil, MessageUtil, TemplateCommand } from '../../../../utils';
 const lightningAppFileSuffix = /.app$/;
 const BUNDLE_TYPE = MessageUtil.get('App');
 
+// another change
+
 export default class LightningApp extends TemplateCommand {
   public static description = MessageUtil.buildDescription(
     'LightningDescription',
