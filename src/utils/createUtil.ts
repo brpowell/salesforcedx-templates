@@ -9,6 +9,8 @@ import * as fs from 'fs';
 import * as path from 'path';
 // @ts-ignore
 import * as yeoman from 'yeoman-environment';
+
+// TODO: Use MessageUtil
 Messages.importMessagesDirectory(__dirname);
 const messages = Messages.loadMessages('salesforcedx-templates', 'messages');
 
