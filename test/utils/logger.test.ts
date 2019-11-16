@@ -12,7 +12,7 @@ const output = 'create newClasses.cls\n create newClasses.cls-meta.xml\n';
 const cleanOutput = ['newClass.cls', 'newClass.cls-meta.xml'];
 logger.setOutput(output);
 logger.setCleanOutput(cleanOutput);
-
+//asdf
 describe('getOutput', () => {
   it('should return output', () => {
     const result = logger.getOutput();
