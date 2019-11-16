@@ -13,6 +13,8 @@ import { CreateUtil, MessageUtil, TemplateCommand } from '../../../../utils';
 const lightningInterfaceFileSuffix = /.intf$/;
 const BUNDLE_TYPE = MessageUtil.get('Interface');
 
+// asdfasdf
+
 export default class LightningInterface extends TemplateCommand {
   public static description = MessageUtil.buildDescription(
     'LightningDescription',
