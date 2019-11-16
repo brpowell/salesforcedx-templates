@@ -8,6 +8,7 @@ const libDir = path.join(currDir, 'lib');
 const libTemplatesDir = path.join(libDir, 'templates');
 const srcTemplatesDir = path.join(currDir, 'src', 'templates');
 
+// clean up
 if (!fs.existsSync(libDir)) {
   shell.mkdir(libDir);
 }
