@@ -76,6 +76,7 @@
   "LightningEventBundle": "A Lightning Event Bundle",
   "LightningInterfaceBundle": "A Lightning Interface Bundle",
   "LightningTest": "A Lightning Test",
+  "LightningHello": "hello"
 
   "MissingClassnameFlag": "Missing required flag:\n -n, --classname CLASSNAME  name of the generated Apex class\nSee more help with --help\n",
   "MissingTriggernameFlag": "Missing required flag:\n -n, --triggername TRIGGERNAME  name of the generated Apex trigger\nSee more help with --help\n",
