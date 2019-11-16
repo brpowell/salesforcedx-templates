@@ -4,7 +4,7 @@ A list of the available commands
 
 #### `sfdx force:apex:class:create`
 
-create an Apex class
+create an Apex class 
 
 ```
 USAGE
