@@ -38,7 +38,6 @@ describe('Apex class creation tests:', () => {
       );
 
     test
-      .withOrg()
       .withProject()
       .stdout()
       .command([
