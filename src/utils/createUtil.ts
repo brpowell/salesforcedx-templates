@@ -16,6 +16,7 @@ const messages = Messages.loadMessages('salesforcedx-templates', 'messages');
 
 /* tslint:disable:no-unused-expression */
 
+// asdfasdf
 export class CreateUtil {
   public static checkInputs(flagValue: string) {
     const alphaRegExp = /^\w+$/;
