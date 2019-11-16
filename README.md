@@ -53,6 +53,7 @@ To verify
 
 test
 another test
+the merge conflict test
 
 We recommend using the Visual Studio Code (VS Code) IDE for your plugin development. Included in the `.vscode` directory of this plugin is a `launch.json` config file, which allows you to attach a debugger to the node process when running your commands.
 
