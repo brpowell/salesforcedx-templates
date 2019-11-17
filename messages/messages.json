@@ -32,8 +32,6 @@
   "ApexTriggerNameFlagLongDescription": "The name of the new Apex trigger. The name can be up to 40 characters and must start with a letter.",
   "ApexTriggerSObjectFlagDescription": "sObject to create a trigger on",
   "ApexTriggerSObjectFlagLongDescription": "The sObject to create an Apex trigger on.",
-  "ApexHelloWorld": "Hello world",
-  "ApexHelloWorld2": "Hello world 2",
 
   "LightningDescription": "create a Lightning %s",
   "LightningLongDescription": "Creates a Lightning %s bundle in the specified directory or the current working directory. The bundle consists of multiple files in a folder with the designated name.",
