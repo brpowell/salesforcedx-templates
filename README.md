@@ -20,7 +20,6 @@ To run a command
   $ sfdx [command]
 ```
 
-
 To build the plugin locally, make sure to have yarn installed and run the following commands:
 
 ```
