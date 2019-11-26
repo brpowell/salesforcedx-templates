@@ -394,5 +394,3 @@ EXAMPLES
 ```
 
 _See code: [src/commands/force/visualforce/page/create.ts](https://github.com/forcedotcom/salesforcedx-templates/blob/master/src/commands/force/visualforce/page/create.ts)_
-
-hi
