@@ -51,9 +51,6 @@ To verify
 
 ## Debugging your plugin
 
-test
-cool
-
 We recommend using the Visual Studio Code (VS Code) IDE for your plugin development. Included in the `.vscode` directory of this plugin is a `launch.json` config file, which allows you to attach a debugger to the node process when running your commands.
 
 To debug the `hello:org` command:
