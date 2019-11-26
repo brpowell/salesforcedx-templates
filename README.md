@@ -59,6 +59,7 @@ If you linked your plugin to the sfdx cli, call your command with the `dev-suspe
 ```sh-session
 $ sfdx hello:org -u myOrg@example.com --dev-suspend
 ```
+hi
 
 Alternatively, to call your command using the `bin/run` script, set the `NODE_OPTIONS` environment variable to `--inspect-brk` when starting the debugger:
 
