@@ -12,5 +12,5 @@ const srcTemplatesDir = path.join(currDir, 'src', 'templates');
 if (!fs.existsSync(libDir)) {
   shell.mkdir(libDir);
 }
-
+//dfg
 shell.cp('-rf', srcTemplatesDir, libTemplatesDir);
