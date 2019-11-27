@@ -1,5 +1,3 @@
 triggers:
-  - when: master
-    port: [develop]
-  - when: somebranch
-    port: [develop, master]
+  master: [develop]
+  somebranch: [develop, master]
