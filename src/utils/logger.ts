@@ -8,7 +8,7 @@
 'use strict';
 
 import * as util from 'util';
-//comment
+
 const padding = ' ';
 const statuses = [
   'skip',
