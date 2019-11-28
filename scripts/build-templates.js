@@ -14,3 +14,5 @@ if (!fs.existsSync(libDir)) {
 }
 
 shell.cp('-rf', srcTemplatesDir, libTemplatesDir);
+
+//asdfasdf
