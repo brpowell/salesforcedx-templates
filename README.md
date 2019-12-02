@@ -7,8 +7,6 @@ This repository provides a series of commands, templates, and generators for var
 [![Known Vulnerabilities](https://snyk.io/test/github/forcedotcom/salesforcedx-templates/badge.svg)](https://snyk.io/test/github/forcedotcom/salesforcedx-templates)
 [![License](https://img.shields.io/npm/l/salesforcedx-templates.svg)](https://github.com/forcedotcom/salesforcedx-templates/blob/master/package.json)
 
-abc
-
 ## Getting Started
 
 To use, install the [Salesforce CLI](https://developer.salesforce.com/tools/sfdxcli) and run the following commands.
@@ -62,7 +60,6 @@ If you linked your plugin to the sfdx cli, call your command with the `dev-suspe
 ```sh-session
 $ sfdx hello:org -u myOrg@example.com --dev-suspend
 ```
-hi
 
 Alternatively, to call your command using the `bin/run` script, set the `NODE_OPTIONS` environment variable to `--inspect-brk` when starting the debugger:
 
