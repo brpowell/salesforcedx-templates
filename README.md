@@ -66,6 +66,8 @@ Alternatively, to call your command using the `bin/run` script, set the `NODE_OP
 $ NODE_OPTIONS=--inspect-brk bin/run hello:org -u myOrg@example.com
 ```
 
+hi
+
 2. Set some breakpoints in your command code
 3. Click on the Debug icon in the Activity Bar on the side of VS Code to open up the Debug view.
 4. In the upper left hand corner of VS Code, verify that the "Attach to Remote" launch configuration has been chosen.
