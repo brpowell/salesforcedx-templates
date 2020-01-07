@@ -66,3 +66,5 @@ export class Log {
     this.cleanOutput = cleanText;
   }
 }
+
+// end
