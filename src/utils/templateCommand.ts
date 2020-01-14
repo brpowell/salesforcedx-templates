@@ -7,6 +7,7 @@
 
 // tslint:disable:no-var-requires
 // tslint:disable:no-unused-expression
+// comment
 
 import { SfdxCommand } from '@salesforce/command';
 import { AnyJson } from '@salesforce/ts-types';
